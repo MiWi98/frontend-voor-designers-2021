@@ -6,6 +6,7 @@ body{
     margin: 0;
 }
 
+/*----NAVIGATIE-----*/
 nav{
     border-bottom: 1px dotted #8e8e8e ;
     box-shadow: 0 4px 1px -2px #e8e8e8;
@@ -38,6 +39,7 @@ ul> li:active{
     border-bottom: 1px solid #22B3A7 ;
 }
 
+/*----article van films-----*/
 h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 500;
@@ -100,4 +102,10 @@ article > button{
     padding: 10px;
     background: none;
     border: none;
+    font-size: 2em;
+}
+
+
+.change{
+    content:'💚';  
 }
