@@ -1,0 +1,103 @@
+html{
+    width: 100vw;
+}
+body{
+    width: 100vw;
+    margin: 0;
+}
+
+nav{
+    border-bottom: 1px dotted #8e8e8e ;
+    box-shadow: 0 4px 1px -2px #e8e8e8;
+    margin: 10px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    margin: 5px;
+}
+ul li> a> img{
+    width: 12vw;
+}
+
+ul> li> a{
+    text-decoration: none;
+    color: black;
+}
+
+ul> li:hover{
+    border-bottom: 1px solid #22B3A7 ;
+}
+ul> li:active{
+    border-bottom: 1px solid #22B3A7 ;
+}
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #22b3a7;
+    text-align: center;
+    text-align: center;
+    /* border-bottom: 2px solid #8e8e8e; 
+    width: 50%;
+    position: relative;
+    left: 86px;*/
+}
+
+article{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    border-bottom: 1px dotted #8e8e8e ;
+    margin-bottom: 10px;
+}
+
+article > img{
+    width: 25%;
+    padding: 15px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+h2{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 18%;
+    padding-left: 10px;
+    /*padding-right: 10px;*/
+}
+
+h3{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    margin-top: 19%;;
+}
+
+p{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article > button{
+    padding: 10px;
+    background: none;
+    border: none;
+}
