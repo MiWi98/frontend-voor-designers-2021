@@ -12,14 +12,21 @@ link naar case 1:https://miwi98.github.io/frontend-voor-designers-2021/case-1
 Algemene link: https://miwi98.github.io/frontend-voor-designers-2021/
 
 
-## interface
+## Interface
 Leg de interface uit. In de demo heb je de interface design principles 04 & 11 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) toegepast. Hoe heb je dat gedaan?
 Keep users in control: Ik laat de gebruiker in controle over het hartje favorieten of uit de favorieten te halen door er opnieuw op te drukken.
 Strong visual hierarchies work best: dit is te zien aan de films en de achtergrond die de nadruk left op de witte tekst en de afbeeldingen. Op deze manier wordt je geleid door de pagina.
 
-## code
+## Code
 Ik ben begonnen met de html en de css te maken. dit ging redelijk voorspoedig met wat uitlijning probleempjes die ik in het volgende stadium heb opgelost. 
-Ik ben daarna begonnen met het maken van de javascript: ik roep in regel 1 de variable op van de button hearts. daaronder heb ik een for loop gebruikt. ik heb de h gebruikt van hearts. het begint bij 0 en telt daarne elke keer na hoeveel er staan/ te lezen is in de code (hearts). en zet daar doormiddel van een eventlistener de function favorieten op. vervolgens bij die function moet het ervoor zorgen dat de harten groen of wit worden. beschrijven in javascript file hoe dat werkt.
+Ik ben daarna begonnen met het maken van de javascript: ik roep in regel 1 de variable op van de button hearts. daaronder heb ik een for loop gebruikt. ik heb de h gebruikt van hearts. het begint bij 0 en telt daarne elke keer na hoeveel er staan/ te lezen is in de code (hearts). en zet daar doormiddel van een eventlistener de function favorieten op. vervolgens bij die function moet het ervoor zorgen dat de harten groen of wit worden. beschrijven in javascript file hoe dat werkt.<br><br><br>
+
+## Screenshot van de verschillende versies:
+### Versie 1: 
+<img src="images/versie1.png" width="375px" alt="v1"><br><br><br><br>
+
+### Versie 2:
+<img src="images/versie2.png" width="375px" alt="v2"><br><br><br><br>
 
 
 ## Bronnen
