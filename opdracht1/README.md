@@ -24,3 +24,4 @@ groen hart: https://emojiguide.org/green-heart
 wit hart: https://emojiguide.org/white-heart
 favorite adden: https://codepen.io/shooft/pen/eYZVNyj
 double click: https://developer.mozilla.org/en-US/docs/Web/API/Element/dblclick_event
+for loop array: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
