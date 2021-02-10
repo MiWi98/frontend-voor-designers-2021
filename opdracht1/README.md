@@ -6,7 +6,11 @@ Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTM
 
 # Project titel
 Ik heb voor usecase 1 gekozen: In een verzameling films wil ik een aantal leuke films kunnen bewaren om ze later te bekijken.
-link naar case:
+
+link naar case 1:https://miwi98.github.io/frontend-voor-designers-2021/case-1
+
+Algemene link: https://miwi98.github.io/frontend-voor-designers-2021/
+
 
 ## interface
 Leg de interface uit. In de demo heb je de interface design principles 04 & 11 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) toegepast. Hoe heb je dat gedaan?
