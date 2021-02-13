@@ -13,9 +13,14 @@ Algemene link: https://miwi98.github.io/frontend-voor-designers-2021/
 
 
 ## Interface
-Leg de interface uit. In de demo heb je de interface design principles 04 & 11 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) toegepast. Hoe heb je dat gedaan?
-Keep users in control: Ik laat de gebruiker in controle over het hartje favorieten of uit de favorieten te halen door er opnieuw op te drukken.
-Strong visual hierarchies work best: dit is te zien aan de films en de achtergrond die de nadruk left op de witte tekst en de afbeeldingen. Op deze manier wordt je geleid door de pagina.
+Leg de interface uit. In de demo heb je de interface design principles 04 & 11 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) toegepast. Hoe heb je dat gedaan?<br>
+__Uitleg website__: Bij de website Favmo kan de gebruiker films toevoegen aan zijn of haar favorieten en kan de gebruiker scrollen door verschillende pagina's om deze favorieten lijst uit tebreiden.
+
+__Keep users in control__, Mensen voelen zich het meest comfortabel als ze in controle zijn van zichzelf of hun omgeving:
+<br> Ik laat de gebruiker in controle over het hartje favorieten of uit de favorieten te halen door er opnieuw op te kunnen drukken.<br>
+
+__Strong visual hierarchies work best__, Visuele hiërarchie is het principe van hoe je elementen rangschikt op volgorde van belangrijkheid en dit vervolgens ook zo toont:
+<br> Dit is te zien aan de films en de achtergrond die de nadruk legt op de witte tekst en de afbeeldingen. Op deze manier wordt je geleid door de pagina.
 
 ## Code
 Ik ben begonnen met de html en de css te maken. dit ging redelijk voorspoedig met wat uitlijning probleempjes die ik in het volgende stadium heb opgelost. 
