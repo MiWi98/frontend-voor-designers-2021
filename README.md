@@ -7,7 +7,7 @@ In het vak Frontend voor Designers leer je hoe je met HTML, CSS en Javascript pr
 
 Het vak bestaat uit 3 opdrachten:
 
-1. [Opdracht 1: Een Micro-interactie uitwerken en testen](opdracht1/)
+1. [Opdracht 1: Een Micro-interactie uitwerken en testen] (link naar case 1: https://miwi98.github.io/frontend-voor-designers-2021/opdracht1/case-1/)
 2. [Opdracht 2: Een interactie uitwerken voor verschillende gebruikers input](opdracht2/)
 3. [Opdracht 3: Een interactie uitwerken met externe data](opdracht3/)
 
