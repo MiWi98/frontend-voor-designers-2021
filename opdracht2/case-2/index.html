@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <title>Mi-Gallery</title>
+</head>
+<body>
+ <h1>Mi-Gallery </h1>
+  <h2>Vakantie foto album </h2>
+
+    <!--begin carrousel -->
+    <section class="slider">
+        <section class="slides">
+   
+
+    <!--radio button begin -->
+        <input type="radio" name="radio-button" id="radio1">
+        <input type="radio" name="radio-button" id="radio2">
+        <input type="radio" name="radio-button" id="radio3">
+        <input type="radio" name="radio-button" id="radio4">
+    <!--radio button einde -->
+
+         <!--slide afb start-->
+            <section class="slide first">
+                <img src="links/foto-1.jpg" alt="">
+                <p>Vakantie foto in Spanje</p>
+            </section>
+
+            <section class="slide ">
+                <img src="links/foto-2.jpg" alt="">
+            </section>
+
+            <section class="slide ">
+                <img src="links/foto-3.jpg" alt="">
+            </section>
+
+            <section class="slide ">
+                <img src="links/foto-4.jpg" alt="">
+            </section>
+         <!--slide afb einde-->
+
+          <!--automatic nav begin-->
+            <section class="navigationAuto">
+                <section class="autoButton1"></section>
+                <section class="autoButton2"></section>
+                <section class="autoButton3"></section>
+                <section class="autoButton4"></section>
+            </section>
+          <!--automatic nav einde-->
+        </section>
+         <!--manual nav begin-->
+            <section class="navigationManual">
+                <label for="radio1" class="manualButton"></label>
+                <label for="radio2" class="manualButton"></label>
+                <label for="radio3" class="manualButton"></label>
+                <label for="radio4" class="manualButton"></label>
+            </section>
+         <!--manual nav einde-->
+
+    </section>
+    <!--einde carrousel -->
+
+      <script src="script.js"></script>
+</body>
+</html>

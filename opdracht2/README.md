@@ -18,3 +18,8 @@ In de demo heb je meerdere [UI events](https://developer.mozilla.org/en-US/docs/
 
 ## code
 Leg de code uit.
+
+### Bronnen
+Keycodes: https://keycode.info/ & http://gcctech.org/csc/javascript/javascript_keycodes.htm & https://www.youtube.com/watch?v=VBVOXTgXX2U
+
+Slider: https://www.youtube.com/watch?v=0wvrlOyGlq0

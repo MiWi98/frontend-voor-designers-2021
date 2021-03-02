@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:white;
+}
+
+.slider{
+    width: 800px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.slides{
+    width: 500%;
+    height: 500px;
+    display: flex;
+}
+
+.slides input{
+    display: none;
+}
+.slide{
+    width: 20%;
+    transition: 2s;
+}
+
+
+.slide img{
+    height: 500px;
+    width: 800px;
+}
+
+p {
+    position: absolute;
+    overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+  }
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+
+
+/*css manual slide nav*/
+
+.navigationManual{
+    position: absolute;
+    width: 800px;
+    margin-top: -40px;
+    display: flex;
+    justify-content: center;
+}
+
+.manualButton{
+    border: 2px solid white;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.manualButton:not(:last-child){
+    margin-right: 40px;
+}
+
+.manualButton:hover{
+    background: white;
+}
+
+#radio1:checked ~ .first{
+    margin-left: 0;
+}
+
+#radio2:checked ~ .first{
+    margin-left: -20%;
+}
+
+#radio3:checked ~ .first{
+    margin-left: -40%;
+}
+
+#radio4:checked ~ .first{
+    margin-left: -60%;
+}
+
+
+/*css automatic slide nav*/
+
+.navigationAuto{
+    position: absolute;
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    margin-top: 460px;
+}
+
+.navigationAuto section{
+    border: 2px solid white;
+    padding: 5px;
+    transition: 1s;
+}
+
+.navigationAuto section:not(:last-child){
+    margin-right: 40px;
+}
+
+#radio1:checked > .navigationAuto .autoButton1{
+    background: white;
+}
+
+#radio2:checked > .navigationAuto .autoButton2{
+    background: white;
+}
+
+#radio3:checked > .navigationAuto .autoButton3{
+    background: white;
+}
+
+#radio4:checked > .navigationAuto .autoButton4{
+    background: white;
+}
+
+
