@@ -4,8 +4,10 @@ Werk een functionaliteit uit die je kunt bedienen met 'click' en nog een user in
 
 Lees hier de [opdrachtbeschrijving](./opdrachtbeschrijving.md).
 
+link naar case 2
+https://miwi98.github.io/frontend-voor-designers-2021/opdracht2/case-2/ 
 
-# Project titel
+# Mi-Gallery
 Beschrijf hier je eigen project.
 En voeg een link naar je demo toe.
 
