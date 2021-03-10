@@ -19,7 +19,7 @@ In de demo heb je interface design principles 04, 08 & 09 van [Principles of Use
 In de demo heb je meerdere [UI events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent) toegepast. Hoe heb je dat gedaan?
 
 ## code
-Leg de code uit.
+de code is helaas niet gelukt. :(  muchos sados alles maar focusssen op odpracht 3. en de volgende keer niet zo iets lastigs kiezen denk. te hoog gegrepen nog voor mij helaas. tragen aub met meer tijd LOL hahaha
 
 ### Bronnen
 Keycodes: https://keycode.info/ & http://gcctech.org/csc/javascript/javascript_keycodes.htm & https://www.youtube.com/watch?v=VBVOXTgXX2U

@@ -80,6 +80,7 @@ h2{
 
 #radio1:checked ~ .first{
     margin-left: 0;
+    
 }
 
 #radio2:checked ~ .first{
@@ -97,7 +98,7 @@ h2{
 
 /*css automatic slide nav*/
 
-.navigationAuto{
+/*.navigationAuto{
     position: absolute;
     display: flex;
     width: 800px;
@@ -129,6 +130,6 @@ h2{
 
 #radio4:checked > .navigationAuto .autoButton4{
     background: white;
-}
+}*/
 
 
