@@ -4,6 +4,8 @@ Voor deze opdracht ga je een functionaliteit ontwerpen met externe data. De data
 
 Lees hier de [opdrachtbeschrijving](./opdrachtbeschrijving.md).
 
+link naar case 1: https://miwi98.github.io/frontend-voor-designers-2021/opdracht3/case-3/
+
 
 # Project titel
 Beschrijf hier je eigen project.
