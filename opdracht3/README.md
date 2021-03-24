@@ -21,3 +21,10 @@ IN de demo heb je een aantal states van de [UI stack](https://www.scotthurff.com
 
 ## code
 Leg de code uit.
+
+
+## Bronnen
+slider: https://www.youtube.com/watch?v=6fivjkF9BOo
+Using the Unsplash API : https://www.pluralsight.com/guides/using-the-unsplash-api & https://github.com/unsplash/unsplash-js
+unsplash : https://unsplash.com/documentation#list-photos & https://unsplash.com/oauth/applications/215599
+arrow keys: https://forum.webflow.com/t/use-arrow-key-to-change-slides/98069 & http://www.menucool.com/2447/How-can-I-enable-keyboard-left-and-right-keys-to-navigate-the-image-slider

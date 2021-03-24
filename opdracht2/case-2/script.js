@@ -1,11 +1,11 @@
-//var counter = 1;
-//setInterval(function(){
-//    document.getElementById('radio' + counter).checked = true;
-//    counter++;
-//    if (counter > 4){
-//        counter = 1;
-//    }
-//}, 5000);
+var counter = 1;
+setInterval(function(){
+    document.getElementById('radio' + counter).checked = true;
+    counter++;
+    if (counter > 4){
+        counter = 1;
+    }
+}, 5000);
 
 
 // key codes, maar moet nog in de slider gezet worden.
@@ -26,10 +26,10 @@ function checkKeyPress2(key){
 const arrowKeys = () => {
     window.addEventListener("onkeydown", e => {
         if (e.key === 37) {
-            prevControl.click();
+            radio.click();
             return false
         } else if (e.key === 39) {
-            nextControl.click();
+            radio.click();
             return false
         }
     });
