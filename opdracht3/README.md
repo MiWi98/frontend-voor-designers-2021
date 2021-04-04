@@ -63,13 +63,13 @@ De data wat ik wil tonen is de titel en de auteur van de afbeelding.
 
 ### **Verschillende versies/fases van mijn Mi-Gallery pagina**
 Dit is de eerste versie hierbij werken de knoppen en de pijltjes toetsen om de slides te bewegen.<br>
-<img src="case-3_v3/images/versie-1.png" width="300px" alt="v1"><br><br>
+<img src="case-3_v3/images/versie-1.png" width="500px" alt="v1"><br><br>
 
 Dit is versie 2, hierbij heb ik de afbeelding erin geladen gekregen.
-<img src="case-3_v3/images/versie-2.png" width="300px" alt="v1"><br><br>
+<img src="case-3_v3/images/Versie-2.png" width="500px" alt="v1"><br><br>
 
 Dit is Versie 3, Hierbij is het gelukt op de alt description en de naam van de gebruiker er in te krijgen.<br>
-<img src="case-3_v3/images/versie-3.png" width="300px" alt="v1"><br><br>
+<img src="case-3_v3/images/versie-3.png" width="500px" alt="v1"><br><br>
 
 ## Bronnen
 slider: https://www.youtube.com/watch?v=6fivjkF9BOo <br>
